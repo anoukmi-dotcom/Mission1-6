@@ -1,0 +1,6 @@
+{
+  "name": "Frans Oefenapp - Alle Missies",
+  "description": "Oefen Franse woordenschat per missie met interactieve flashcards, meerkeuzequiz, schrijfoefeningen en memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
